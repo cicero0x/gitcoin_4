@@ -1,6 +1,6 @@
 # Gitcoin Task 4
 
-# Testnet Explorer ink to Layer 1 address funded
+# Testnet Explorer link to Layer 1 address funded
 <a href="https://explorer.nervos.org/aggron/address/ckt1qyqpqezehtz4qkn89cny009929g42rmy5pksytkzca"> ckt1qyqpqezehtz4qkn89cny009929g42rmy5pksytkzca </a>
 
 # Screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1 
